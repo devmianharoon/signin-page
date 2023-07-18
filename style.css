@@ -1,0 +1,130 @@
+body{
+    background-image: url(./Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    
+}
+h2{
+    color: #000;
+/* text-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25); */
+font-family: Poppins;
+font-size: 59.25px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-left: 50px;
+margin-top: 0px;
+text-shadow: 0px 4px 0px rgba(0, 0, 0, 0.25);
+margin-bottom: 0px;
+width: 232.44px;
+height: 91.153px;
+flex-shrink: 0;
+
+
+}
+h6{
+
+margin-top: 0%;
+flex-shrink: 0;
+color: #000;
+font-family: Poppins;
+font-size: 18.637px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+margin-left: 50px;
+width: 226.052px;
+height: 30.999px;
+
+}
+#img{
+margin-left: 50%;
+margin-top: 7%;
+padding: 0%;
+}
+.first{
+    background-color: white;
+    position: absolute;
+    width: 515px;
+    left: 11%;
+    top: 15.5%;
+    height: 680px;
+    /* border: 3px  ; */
+    padding: 10px;
+    display: grid;
+}
+.placeholder{
+    width: 350px;
+    height: 40px;
+    margin-left: 50px;
+    height: 40px;
+    border-radius: 4px grey;
+    padding: 2px 2px 2px 2px;
+    color: #555;
+    font-family: Poppins;
+    font-size: 17.458px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.button{
+ 
+    margin-left:40px ;
+}
+.btn{
+ 
+    width: 132.713px;
+height: 41.122px;
+flex-shrink: 0;
+    margin-left: 10px;
+    border-radius: 2.929px;
+}
+#btn1{
+    color: #FFF;
+font-family: Poppins;
+font-size: 19.558px;
+font-style: normal;
+font-weight: bold;
+line-height: normal;
+background-color: #000;
+}
+#btn2{
+    color: #000;
+font-family: Poppins;
+font-size: 19.558px;
+font-style: normal;
+font-weight: bold;
+line-height: normal;
+}
+#a{
+    margin-left: 50px;
+    color: #000;
+font-family: Poppins;
+font-size: 19.558px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+#a1{
+    margin-left: 50px;
+    width: 106.052px;
+    height: 14.5px;
+    flex-shrink: 0; 
+    color: #000;
+font-family: Poppins;
+font-size: 9.779px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+}
+#a2{
+    margin-left: 20px;
+    width: 67.07px;
+height: 14.5px;
+flex-shrink: 0;
+color: #000;
+font-family: Poppins;
+font-size: 9.779px;
+font-style: normal;
+
+line-height: normal;
+}
